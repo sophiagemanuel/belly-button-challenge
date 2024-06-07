@@ -1,5 +1,6 @@
 # belly-button-challenge
 Module 14 Challenge
+Deployed to pages at: https://sophiagemanuel.github.io/belly-button-challenge/
 
 For this challenge, I was tasked with creating a website based on the Bellybutton Biodiversity with data from the BellyButton Biodiversity project (https://robdunnlab.com/projects/belly-button-biodiversity/). This website utilizes the dataset to provide interactive visualizations. 
 
